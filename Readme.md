@@ -1,6 +1,5 @@
-# Node.js项目   
-lagou-admin 项目  
-lagou-admin 项目 目录下，新建 frontend目录、backend目录  
+# lagou-admin 项目   
+  lagou-admin 项目 目录下，新建 frontend目录、backend目录  
 
 # 技术选型
 ## 前端 （frontend）  
