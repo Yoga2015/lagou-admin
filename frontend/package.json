@@ -4,8 +4,15 @@
   "main": "index.js",
   "license": "MIT",
   "devDependencies": {
+    "copy-webpack-plugin": "^11.0.0",
+    "html-webpack-plugin": "^4.5.0",
     "webpack": "4.44.2",
-    "webpack-cli": "3.3.12"
+    "webpack-cli": "4.9.0",
+    "webpack-dev-server": "^4.9.3"
   },
-  "dependencies": {}
+  "dependencies": {},
+  "scripts": {
+    "build": "npx webpack",
+    "dev": "npx webpack-dev-server"
+  }
 }
